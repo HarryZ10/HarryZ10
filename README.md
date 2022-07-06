@@ -4,7 +4,12 @@
 
 I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about all things technology: cybersecurity, web & game development, and data analysis. I desire to drive monumental changes through software development to address and uplift stories but also uproot issues from my community.
 
-I offer a diverse skill set to be coachable and receptive to feedback such as agile development, marketing, risk assessment, road mapping, troubleshooting, and data analysis. I have an adaptable and nimble mentality to learn and widen my skill set as I continue my curriculum and experience at George Fox and extracurricular associations in hopes of acquiring new professional experiences.  * 🌍  I'm based in San Francisco, CA * 🖥️  See my portfolio at [harryzhu.com](http://harryzhu.com) * 🚀  I'm currently working on [Recidiviz projects](http://GitHub.com/recidiviz/pulse-data) * 🧠  I'm learning NextJS
+I offer a diverse skill set to be coachable and receptive to feedback such as agile development, marketing, risk assessment, road mapping, troubleshooting, and data analysis. I have an adaptable and nimble mentality to learn and widen my skill set as I continue my curriculum and experience at George Fox and extracurricular associations in hopes of acquiring new professional experiences. 
+
+* 🌍  I'm based in San Francisco, CA
+* 🖥️  See my portfolio at [harryzhu.com](http://harryzhu.com)
+* 🚀  I'm currently working on [Recidiviz projects](http://GitHub.com/recidiviz/pulse-data)
+* 🧠  I'm learning NextJS
 
 ### Skills
 
