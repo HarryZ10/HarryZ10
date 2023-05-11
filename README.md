@@ -7,7 +7,7 @@ I am currently pursuing a Bachelor's degree in Computer Science. I am passionate
 I offer a diverse skill set to be coachable and receptive to feedback such as agile development, marketing, risk assessment, road mapping, troubleshooting, and data analysis. I have an adaptable and nimble mentality to learn and widen my skill set as I continue my curriculum and experience at George Fox and extracurricular associations in hopes of acquiring new professional experiences. 
 
 * 🌍  I'm based in San Francisco, CA
-* 🖥️  See my **tentative** portfolio at [harryjzhu.com](https://harryjzhu.com)
+* 🖥️  See my **finished** portfolio at [harryjzhu.com](https://harryjzhu.com)
 * 🚀  I'm currently working on Next.JS and React projects.
 * 🧠  I'm learning NextJS and other front end stacks.
 
