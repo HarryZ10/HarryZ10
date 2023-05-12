@@ -24,15 +24,19 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/HarryZ10"><img src="https://github-readme-stats.vercel.app/api?username=HarryZ10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="HarryZ10's GitHub stats" /></a>
+
 <a href="http://www.github.com/HarryZ10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/HarryZ10"><img src="https://activity-graph.herokuapp.com/graph?username=HarryZ10&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/HarryZ10"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HarryZ10&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/HarryZ10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryZ10&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/HarryZ10" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryZ10&langs_count=9&hide_progress=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<b>Top Repositories</b> 
 
 <div width="100%" align="center"><a href="https://github.com/HarryZ10/pickabox.space" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryZ10&repo=pickabox.space&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HarryZ10/foxacmw.com" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryZ10&repo=foxacmw.com&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<b>Wakatime Stats</b>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
