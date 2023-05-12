@@ -9,7 +9,7 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 * 🌍  I'm based in San Francisco, CA
 * 🖥️  See my **finished** portfolio at [harryjzhu.com](https://harryjzhu.com)
 * 🚀  I'm currently working on Next.JS and React projects.
-* 🧠  I'm learning NextJS and other front end stacks.
+* 🧠  I'm learning full stack development,, including NextJS and other front end stacks.
 
 ### Skills
 
@@ -34,6 +34,9 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 <b>Top Repositories</b> 
 
 <div width="100%" align="center"><a href="https://github.com/HarryZ10/pickabox.space" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryZ10&repo=pickabox.space&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HarryZ10/foxacmw.com" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryZ10&repo=foxacmw.com&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br />
+<br />
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu)](https://github.com/anuraghazra/github-readme-stats)
 
