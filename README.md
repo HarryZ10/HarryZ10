@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry
 
-## Full-Stack Web & Security
+## Software Engineer With A Big Heart for Change
 
 I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about all things technology: full-stack development and cloud security. I desire to drive monumental changes through software development to address and uplift stories but also uproot issues from my community.
 
