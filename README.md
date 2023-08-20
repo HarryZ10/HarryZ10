@@ -1,8 +1,8 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry Z
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harry
 
 ## Full-Stack Web & Security
 
-I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about all things technology: cybersecurity, web & game development, and data analysis. I desire to drive monumental changes through software development to address and uplift stories but also uproot issues from my community.
+I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about all things technology: full-stack development and cloud security. I desire to drive monumental changes through software development to address and uplift stories but also uproot issues from my community.
 
 I offer a diverse skill set to be coachable and receptive to feedback such as agile development, marketing, risk assessment, road mapping, troubleshooting, and data analysis. I have an adaptable and nimble mentality to learn and widen my skill set as I continue my curriculum and experience at George Fox and extracurricular associations in hopes of acquiring new professional experiences. 
 
