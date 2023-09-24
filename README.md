@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Harry
-
-## Software Engineer With A Big Heart for Change
+---
+### Software Engineer With A Big Heart for Change
 
 I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about all things technology: full-stack development and cloud security. I desire to drive monumental changes through software development to address and uplift stories but also uproot issues from my community.
 
