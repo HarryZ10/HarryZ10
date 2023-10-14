@@ -1,14 +1,14 @@
 # Hi! 👋 My name is Harry
----
-### Software Engineer With A Big Heart for Change
 
-I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about all things technology: full-stack development and cloud security. I desire to drive monumental changes through software development to address and uplift stories but also uproot issues from my community.
+### Software Engineer and Tech Creator
+
+I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about everything technology: systems, full-stack development, and cloud security. I desire to drive monumental changes through software development to address and uplift stories and uproot issues in my community.
 
 I offer a diverse skill set to be coachable and receptive to feedback such as agile development, marketing, risk assessment, road mapping, troubleshooting, and data analysis. I have an adaptable and nimble mentality to learn and widen my skill set as I continue my curriculum and experience at George Fox and extracurricular associations in hopes of acquiring new professional experiences. 
 
 * 🌍  I'm based in San Francisco, CA
-* 🖥️  See my **finished** portfolio at [harryjzhu.com](https://harryjzhu.com)
-* 🚀  I have been working at Liminal Insights, a climate tech startup, from June 2023 to August 2023.
+* 🖥️  See my portfolio at [harryjzhu.com](https://harryjzhu.com)
+* 🚀  I recently interned at Liminal Insights, a climate and EV manufacturing tech startup, from June to August 2023.
 * 🧠  I am knowledgeable in building full-stack software with Python and JavaScript.
 
 ### Skills
