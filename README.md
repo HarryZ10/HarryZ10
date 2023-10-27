@@ -1,6 +1,4 @@
-# Hi! 👋 My name is Harry
-
-## First-Gen. Computer Science. Community Building.
+# Hello, 👋 I'm Harry!
 
 I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about everything technology: systems, full-stack development, and cloud security. I desire to drive monumental changes through software development to address and uplift stories and uproot issues in my community.
 
