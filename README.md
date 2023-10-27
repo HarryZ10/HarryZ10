@@ -52,14 +52,14 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 
 ### About This Github
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu)https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <a href="http://www.github.com/HarryZ10"><img src="https://github-readme-stats.vercel.app/api?username=HarryZ10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="HarryZ10's GitHub stats" /></a>
 
 <a href="http://www.github.com/HarryZ10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,php,yaml,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,other,scss,css,ezhill)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,php,yaml,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,other,scss,css,ezhill)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <b>Top Repositories</b> 
 <div width="100%" align="center">
