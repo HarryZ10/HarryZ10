@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Harry
 
-### First-Gen. Computer Science. Community Building.
+## First-Gen. Computer Science. Community Building.
 
 I am currently pursuing a Bachelor's degree in Computer Science. I am passionate about everything technology: systems, full-stack development, and cloud security. I desire to drive monumental changes through software development to address and uplift stories and uproot issues in my community.
 
@@ -10,6 +10,8 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 * 🖥️  See my portfolio at [harryjzhu.com](https://harryjzhu.com)
 * 🚀  I recently interned at Liminal Insights, a climate and EV manufacturing tech startup, from June to August 2023.
 * 🧠  I am knowledgeable in building full-stack web and factory automata software with Python and JavaScript.
+
+---
 
 ### Skills
 
@@ -61,7 +63,7 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<b>Top Repositories</b> 
+### Top Repositories
 <div width="100%" align="center">
   <a href="https://github.com/HarryZ10/pickabox.space" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryZ10&repo=pickabox.space&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en"/>
