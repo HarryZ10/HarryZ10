@@ -56,7 +56,7 @@ I offer a diverse skill set to be coachable and receptive to feedback such as ag
 
 <a href="http://www.github.com/HarryZ10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,php,yaml,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,other,csv,c#,assembly,json,scss,css,ezhil)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,php,ezhil,yaml,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c#,assembly,json,other,scss,csv,css)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,php,yaml,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,other,csv,c%23,assembly,json,scss,css,ezhil)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,php,ezhil,yaml,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,json,other,scss,csv,css)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
