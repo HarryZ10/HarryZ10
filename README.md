@@ -53,7 +53,7 @@ Let's make a difference together in the ever-evolving landscape of technology!
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/HarryZ10" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
 </a>
-  <a href="http://iam.harryjzhu.com" target="_blank" rel="noreferrer">
+  <a href="http://iam.harryzhu.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4.14.0/icons/notion.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/harryjzhu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
