@@ -8,14 +8,12 @@ I've had the incredible opportunity to intern at innovative startups and for my 
 
 🗓️ **Journey of Constant Growth:** My path is defined by constant learning, leading on-campus initiatives, and contributing to projects with a mission. From architecting software systems to enhancing infrastructure, I'm all in.
 
-## Currently, I’m:
-
+## Currently, I’m..
 - 🖥️ **Developing Full-Stack Software** and automation for mission-critical agency-facing projects @ University Marketing.
 - ✈️ **Applying Supervised Learning (ML)** to detect anomalies in electrocardiogram waves for TZ Medical as a CS Student, collaborating with a team of 3 at George Fox University (GFU).
 - 👨‍💻 **TA'ing CSIS Courses** for the 2nd year @ George Fox.
 
-## Recently, I:
-
+## Recently, I..
 - 💸 **Engaged with Battery Intelligence Technologies**, utilizing React to Flask @ Liminal Insights!
 - ⚙️ **Led my University's Premier Student Organization**, the GFU Association for Computing Machinery Chapter, through annual hackathons and workshops, securing the largest funding out of all chartered clubs
 
