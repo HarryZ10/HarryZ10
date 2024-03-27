@@ -64,7 +64,7 @@ Let's make a difference together in the ever-evolving landscape of technology!
 
 <a href="http://www.github.com/HarryZ10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,yaml,gdscript3,toml,mysql,markdown,makefile,text,cuda,fortran,perlactionscript%203,Apache%20Config,HTML,SQL,TSConfig,fortranfixed,gap,other,csv,c%23,assembly,json,scss,css,ezhil)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,ezhil,yaml,Apache%20Config,HTML,SQL,makefile,TSConfig,perl,fortran,cuda,mysql,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,json,other,scss,csv,css)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,yaml,gdscript3,toml,mysql,markdown,makefile,text,cuda,fortran,perl,actionscript%203,actionscript%203,Apache%20Config,HTML,SQL,TSConfig,fortranfixed,gap,other,csv,c%23,assembly,json,scss,css,ezhil)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,actionscript%203,ini,git%20config,bnf,tsql,xml,ezhil,yaml,Apache%20Config,HTML,SQL,makefile,TSConfig,perl,fortran,cuda,mysql,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,json,other,scss,csv,css)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
