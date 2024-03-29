@@ -4,7 +4,7 @@
 
 I've had the incredible opportunity to intern at innovative startups and for my University, bringing a passionate **"knack"** for **full-stack development**, **security**, **cloud computing**, and **DevOps**.
 
-🌟 **Tech Generalist with Impact:** I consider myself a tech **"generalist"** eager to leverage my web, systems, and game development background. My goal is to develop robust software and infrastructure that significantly impacts the community.
+🌟 **Tech Generalist with Impact:** I consider myself a tech **"generalist"** (pursuing to be a [T-Shaped Developer](https://thetshaped.dev/p/the-t-shaped-software-developer)) eager to leverage my web, systems, and game development background. My goal is to develop robust software and infrastructure that significantly impacts the community.
 
 🗓️ **Journey of Constant Growth:** My path is defined by constant learning, leading on-campus initiatives, and contributing to projects with a mission. From architecting software systems to enhancing infrastructure, I'm all in.
 
