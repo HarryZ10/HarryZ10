@@ -1,69 +1,20 @@
-# Hi! I'm Harry Zhu
+# 💫 About Me
+Hi! I'm Harry Zhu, a three-time software development-related intern at innovative and social change startups and for my University. I have a passionate knack for backend systems development, and I seek to incorporate my cybersecurity, web, and game background to develop 🌟 robust software systems.<br><br>Recently, I:<br>‣ 🖥️ Created full-stack automata tools for the University Marketing Department<br>‣ ✈️ Developed a supervised model algorithm to detect and classify arrhythmias in ECG/EKG recordings for TZ Medical, a medical device manufacturing startup, with a team of three<br>‣ 💸 Worked hands-on with battery intelligence technologies from React to Flask at Liminal Insights<br>‣ ⚙️ Organized the George Fox EECS Department's largest student org, ACM-W, through annual hackathons and workshops for 70+ computer science students<br><br>🗓️ At any given moment, my journey is defined by self-driven learning, leading on-campus initiatives, and contributing to purposeful technical projects. Whether it is architecting and implementing software systems or enhancing the infrastructure, I strive to make an impact in every project or leadership initiative I undertake.<br><br>📥 Feel free to contact me at hello@harryzhu.com or connect with me here, as I am currently always up for a challenge! 🌟
 
-### 🌐 2x SWE Intern | Full-Stack Developer | Tech Enthusiast
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harryjzhu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@byharryzhu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harryjzhu) 
 
-I've had the incredible opportunity to intern at innovative startups and for my University, bringing a passionate **"knack"** for **full-stack development**, **security**, **cloud computing**, and **DevOps**.
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-🌟 **Tech Generalist with Impact:** I consider myself a tech **"generalist"** (pursuing to be a [T-Shaped Developer](https://thetshaped.dev/p/the-t-shaped-software-developer)) eager to leverage my web, systems, and game development background. My goal is to develop robust software and infrastructure that significantly impacts the community.
+# 📊 Github Stats
+![](https://github-readme-stats.vercel.app/api?username=HarryZ10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&theme=dark&hide_border=false)<br/>
 
-🗓️ **Journey of Constant Growth:** My path is defined by constant learning, leading on-campus initiatives, and contributing to projects with a mission. From architecting software systems to enhancing infrastructure, I'm all in.
-
-## Currently, I’m..
-- 🖥️ **Developing Full-Stack Software** and automation for mission-critical agency-facing projects @ University Marketing.
-- ✈️ **Applying Supervised Learning (ML)** to detect anomalies in electrocardiogram waves for TZ Medical as a CS Student, collaborating with a team of 3 at George Fox University (GFU).
-- 👨‍💻 **TA'ing CSIS Courses** for the 2nd year @ George Fox.
-
-## Recently, I..
-- 💸 **Engaged with Battery Intelligence Technologies**, utilizing React to Flask @ Liminal Insights!
-- ⚙️ **Led my University's Premier Student Organization**, the GFU Association for Computing Machinery Chapter, through annual hackathons and workshops, securing the largest funding out of all chartered clubs
-
-🔍 **Looking Ahead - Spring 2024:** I'm on the hunt for opportunities where I can bring my software engineering, cybersecurity, and DevOps skills to the forefront in the tech industry!
-
-📥 **Let's Connect!** Visit me at [harryzhu.com](http://harryzhu.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harryjzhu).
-Let's make a difference together in the ever-evolving landscape of technology!
+<!--## 🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarryZ10&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ---
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-  
-### Socials
-<p align="left">
-  <a href="https://www.facebook.com/harry.zhu.20" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/HarryZ10" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-  <a href="http://iam.harryzhu.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/4.14.0/icons/notion.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.linkedin.com/in/harryjzhu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </a>
-</p>
-
-### About This Github
-
-<a href="http://www.github.com/HarryZ10"><img src="https://github-readme-stats.vercel.app/api?username=HarryZ10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="HarryZ10's GitHub stats" /></a>
-
-<a href="http://www.github.com/HarryZ10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,yaml,gdscript3,toml,mysql,markdown,makefile,text,cuda,fortran,perl,actionscript%203,actionscript%203,Apache%20Config,HTML,SQL,TSConfig,fortranfixed,gap,other,csv,c%23,assembly,prolog,protocol%20buffer,json,scss,css,ezhil)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,actionscript%203,ini,git%20config,bnf,tsql,xml,ezhil,yaml,Apache%20Config,HTML,SQL,makefile,TSConfig,perl,fortran,cuda,mysql,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,prolog,protocol%20buffer,json,other,scss,csv,css)
 
 <!--START_SECTION:waka-->
@@ -78,3 +29,6 @@ Let's make a difference together in the ever-evolving landscape of technology!
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HarryZ10&repo=foxacmw.com&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=HarryZ10&icon=0&color=0)](https://visitcount.itsvg.in)
