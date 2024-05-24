@@ -18,7 +18,7 @@ Hi! I'm Harry Zhu, a three-time software development-related intern at innovativ
 ![](https://github-profile-trophy.vercel.app/?username=HarryZ10&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
 ---
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,yaml,gdscript3,toml,mysql,markdown,makefile,text,cuda,fortran,perl,actionscript%203,actionscript%203,Apache%20Config,HTML,SQL,TSConfig,fortranfixed,gap,other,csv,c%23,assembly,prolog,protocol%20buffer,json,scss,css,ezhil)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,actionscript%203,ini,git%20config,bnf,tsql,xml,ezhil,yaml,Apache%20Config,HTML,SQL,makefile,TSConfig,perl,fortran,cuda,mysql,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,prolog,protocol%20buffer,json,other,scss,csv,css)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,yaml,gdscript3,toml,mysql,markdown,makefile,text,cuda,fortran,perl,actionscript%203,actionscript%203,Apache%20Config,HTML,SQL,TSConfig,fortranfixed,gap,other,csv,c%23,assembly,prolog,protocol%20buffer,json,scss,css,ezhil,Image%20(jpeg),Powershell)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,actionscript%203,ini,git%20config,bnf,tsql,xml,ezhil,yaml,Apache%20Config,HTML,SQL,makefile,TSConfig,perl,fortran,cuda,mysql,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,prolog,protocol%20buffer,json,other,scss,csv,css,Image%20(jpeg),Powershell)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
