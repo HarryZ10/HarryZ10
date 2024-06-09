@@ -11,9 +11,7 @@ Hi! I'm Harry Zhu, a three-time software development-related intern at innovativ
 
 
 # 📊 Github Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarryZ10&theme=dark&hide_border=false)<br/>
 
----
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,ini,git%20config,bnf,tsql,xml,yaml,gdscript3,toml,mysql,markdown,makefile,text,cuda,fortran,perl,actionscript%203,actionscript%203,Apache%20Config,HTML,SQL,TSConfig,fortranfixed,gap,other,csv,c%23,assembly,prolog,protocol%20buffer,json,scss,css,textmate,java%20properties,properties,ezhil,Image%20(jpeg),Powershell,Tex)](https://github-readme-stats.vercel.app/api/wakatime?username=harryjzhu&hide=actionscript,actionscript%203,ini,git%20config,bnf,tsql,xml,ezhil,textmate,java%20properties,properties,yaml,Apache%20Config,HTML,SQL,makefile,TSConfig,perl,fortran,cuda,mysql,gdscript3,toml,markdown,text,actionscript%203,fortranfixed,gap,c%23,assembly,prolog,protocol%20buffer,json,other,scss,csv,css,Image%20(jpeg),Powershell,TeX)
 
 <!--START_SECTION:waka-->
