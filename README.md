@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! I'm Harry Zhu, a four-time software engineering intern, currently at [F5](f5.com) and previously at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems development and several cybersecurity domains like cyber threat analysis and reverse engineering, and in all that I have learned, I seek to engineer performant and effective software systems impacting other humans.
+Hi! I'm Harry Zhu, a four-time software engineering intern, previously at [F5](f5.com) and formerly at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems development and several cybersecurity domains like cyber threat analysis and reverse engineering, and in all that I have learned, I seek to engineer performant and effective software systems impacting other humans.
 
 You can also check out my portfolio at [harryzhu.com](harryzhu.com) to view my projects and experience!
 
