@@ -1,3 +1,5 @@
+> "If it's not hard, it's not worth doing."
+
 ### a full-stack & backend systems developer
 
 Hi! I'm Harry Zhu, a four-time software engineering intern, previously at [F5](f5.com) and formerly at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems development, and I seek to engineer performant and effective software systems for humans like you. 
