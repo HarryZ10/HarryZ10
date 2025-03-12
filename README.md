@@ -4,6 +4,8 @@
 
 Hi! I'm Harry Zhu, a four-time software engineering intern, previously at [F5](f5.com) and formerly at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems development, and I seek to engineer performant and effective software systems for humans like you. 
 
+Some open source contributions @ Recidiviz: [here](https://github.com/Recidiviz/pulse-data/commits/main/?author=HarryZ10)
+
 You can also check out my portfolio at [harryzhu.com](harryzhu.com) to view my projects and experience! Feel free to follow me for updates on my works, as I am currently always up for a challenge! 🌟
 
 <!--
@@ -13,13 +15,16 @@ You can also check out my portfolio at [harryzhu.com](harryzhu.com) to view my p
 
 -----
 
+### Top Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Other
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
