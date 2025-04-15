@@ -1,18 +1,12 @@
 > "If it's not hard, it's not worth doing."
 
-### a full-stack & backend systems developer
+### ⚡️A full-stack & backend systems developer
 
 Hi! I'm Harry Zhu, a four-time software engineering intern, previously at [F5](f5.com) and formerly at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems development, and I seek to engineer performant and effective software systems for humans like you. 
 
-Some open source contributions @ Recidiviz: [here](https://github.com/Recidiviz/pulse-data/commits/main/?author=HarryZ10)
+#### ⚡️Some open source contributions @ Recidiviz: [here](https://github.com/Recidiviz/pulse-data/commits/main/?author=HarryZ10)
 
-You can also check out my portfolio at [harryzhu.com](harryzhu.com) to view my projects and experience! Feel free to follow me for updates on my works, as I am currently always up for a challenge! 🌟
-
-<!--
-### 🌐 how to contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harryjzhu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@byharryzhu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harryjzhu) 
--->
-
+You can also check out my portfolio at [harryzhu.com](harryzhu.com) to view my projects and experience!
 -----
 
 ### Top Technologies
