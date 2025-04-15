@@ -7,6 +7,7 @@ Hi! I'm Harry Zhu, a four-time software engineering intern, previously at [F5](f
 #### ⚡️Some open source contributions @ Recidiviz: [here](https://github.com/Recidiviz/pulse-data/commits/main/?author=HarryZ10)
 
 You can also check out my portfolio at [harryzhu.com](harryzhu.com) to view my projects and experience!
+
 -----
 
 ### Top Technologies
