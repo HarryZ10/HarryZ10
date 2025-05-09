@@ -2,7 +2,7 @@
 
 ### ⚡️A full-stack & backend systems developer
 
-Hi! I'm Harry Zhu, currently a software engineer on the site reliability team under Foundry Manufacturing at Intel and previously at [F5](f5.com) and formerly at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems and DevOps development, and I seek to engineer performant and effective software systems for humans like you. 
+Hi! I'm Harry Zhu, currently a software engineer on the site reliability team under Foundry Manufacturing at [Intel](https://www.intel.com/content/www/us/en/foundry/overview.html) and previously at [F5](f5.com) and formerly at [Liminal Insights](liminalinsights.com) and [Recidiviz](recidiviz.org). I am well versed in backend systems and DevOps development, and I seek to engineer performant and effective software systems for humans like you. 
 
 #### ⚡️Some open source contributions @ Recidiviz: [here](https://github.com/Recidiviz/pulse-data/commits/main/?author=HarryZ10)
 
